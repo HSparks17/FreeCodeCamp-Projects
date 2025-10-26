@@ -1,0 +1,1 @@
+This is my personally curated page of all projects I do on https://www.FreeCodeCamp.org as a means of demonstrating what I'm capable of/have learned in their Certified Full Stack Developer Curriculum.
