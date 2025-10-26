@@ -1,0 +1,56 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Site for booking trips.">
+  <title>Hunter's Dream Destinations</title>
+</head>
+<body>
+  <h1>Travel Destinations</h1>
+  <p>
+    Explore the world by planning your dream destination to places such as Honolulu, HI
+    or travel to the down under on your perfect trip to Sydney, AUS!
+  </p>
+
+  <h2>Packages</h2>
+  <p>
+    We have a wide range of packages, ranging from "Starter", which includes a basic package of simple, cheaper flights and accommodations once you arrive,
+    to our "Luxury" package, that provides the best and most comfortable travel options available — i.e., first class flights, five-star hotels,
+    and reservations at the most exclusive restaurants at your destination.
+  </p>
+
+  <ul>
+    <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+    <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+  </ul>
+
+  <h2>Top Itineraries</h2>
+
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Photo of the Colosseum">
+    </a>
+    <figcaption>Explore the great Colosseum of Rome</figcaption>
+  </figure>
+
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Photo of the Alps mountains">
+    </a>
+    <figcaption>Explore the beautiful Alps</figcaption>
+  </figure>
+
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Photo of the sea and beach">
+    </a>
+    <figcaption>Explore the great blue seas of Australia</figcaption>
+  </figure>
+</body>
+</html>
+
+
+** end of index.html **
+
